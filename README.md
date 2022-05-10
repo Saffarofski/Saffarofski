@@ -1,10 +1,3 @@
-<!-- <div align="center"> -->
-
-<!-- <img src="https://cdn1.bbcode0.com/uploads/2022/2/16/6a67b3a55c9559f14a9940418fd82319-full.jpg" align="center" style="width: 100%" style="height: 50%" /> -->
-<!-- </div>   -->
-
-![alt text](https://github.com/Saffarofski/Saffarofski/blob/main/tumblr_nu4qu2e2711qz9wlpo1_500.webp?raw=true) ![Metrics](/metrics.plugin.music.svg)
-
 ### <div align="center">Hi , I'm Soheil
 <!-- However my real name is Soheil and I like russian people.</div>   -->
 - 🔪 Yes I like American Psycho (the movie)
