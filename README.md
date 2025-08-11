@@ -1,6 +1,5 @@
 ### <div align="center">Hi , I'm Soheil
-My field is in Electronics engineering , PCB Designing -Embedded and IOT System developing
-
+I'm an embedded and IoT systems developer :)
 <br/>  
   
 ## My Contributions  
